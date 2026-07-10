@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/PranshulCSE/Leetcode/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/PranshulCSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/PranshulCSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
